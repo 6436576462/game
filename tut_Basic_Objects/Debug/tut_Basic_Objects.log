@@ -1,0 +1,9 @@
+﻿  gun.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+  (компиляция исходного файла "gun.cpp")
+  C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\glfw-3.4.bin.WIN32\include\GLFW\glfw3.h(123,1):
+  см. предыдущее определение "APIENTRY"
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\gun.cpp(51,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\gun.cpp(52,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  tut_Basic_Objects.vcxproj -> C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\Debug\tut_Basic_Objects.exe
