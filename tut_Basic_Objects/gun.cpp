@@ -1,5 +1,7 @@
+/*
 #include "glfw3.h"
-#include "GL/freeglut.h"
+#include <GL/gl.h>
+//#include "GL/freeglut.h"
 #include <cmath>
 #include <iostream>
 #include "Player.h"
@@ -56,12 +58,7 @@ struct Bullet {
         }
     }
 
-    void _delete() {
-        
-        if (pos_x == this->pos_x) {
-
-        }
-    }
+    
 
 
 };
@@ -74,7 +71,7 @@ void mouseButtonCallback(GLFWwindow* window, int button, int action, int mods) {
         /*double xPos, yPos;
         glfwGetCursorPos(window, &xPos, &yPos);
         std::cout << "Left mouse button pressed at position: (" << xPos << ", " << yPos << ")" << std::endl;
-        */
+        
         
         Bullet newBullet(player.pos_x, player.pos_y, player.rotation);
         bullets.push_back(newBullet);
@@ -103,7 +100,7 @@ void deleteBullets() {
 
 
 
-
+*/
 
 
 

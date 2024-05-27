@@ -1,9 +1,133 @@
-﻿  gun.cpp
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
-  (компиляция исходного файла "gun.cpp")
-  C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\glfw-3.4.bin.WIN32\include\GLFW\glfw3.h(123,1):
-  см. предыдущее определение "APIENTRY"
+﻿  enemy.cpp
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(18,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
   
-C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\gun.cpp(51,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\gun.cpp(52,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(19,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(44,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(45,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(54,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(55,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(64,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(65,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(74,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(75,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(83,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(84,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\bullet.h(21,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\bullet.h(22,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\bullet.h(30,27): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "enemy.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.cpp(58,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.cpp(59,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.cpp(62,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.cpp(103,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244:         ]
+  (компиляция исходного файла "enemy.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.cpp(24,20):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<Zombie,std::allocator<Zombie>>::emplace_back<float,float,int>(float &&,float &&,int &&)"
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(862,24):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<float,float,int>(float &&,float &&,int &&)"
+          with
+          [
+              _Ty=Zombie
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(780,20):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<float,float,int>(float &&,float &&,int &&)"
+          with
+          [
+              _Ty=Zombie
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(798,27):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,float,float,int>(_Alloc &,_Objty *const ,float &&,float &&,int &&)"
+          with
+          [
+              _Alloc=std::allocator<Zombie>,
+              _Ty=Zombie,
+              _Objty=Zombie
+          ]
+  
+  main.cpp
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\bullet.h(30,27): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(29,22): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+  player.cpp
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(18,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(19,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(44,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(45,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(54,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(55,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(64,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(65,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(74,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(75,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(83,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\enemy.h(84,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "player.cpp")
+  
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\player.cpp(37,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\player.cpp(81,81): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\player.cpp(106,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\player.cpp(107,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\player.cpp(143,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\player.cpp(144,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\player.cpp(153,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\player.cpp(154,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
   tut_Basic_Objects.vcxproj -> C:\Users\Игорь\source\repos\VS_OpenGL_tutorial\OpenGL_tutorial\Debug\tut_Basic_Objects.exe

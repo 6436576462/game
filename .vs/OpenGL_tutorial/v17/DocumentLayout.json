@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\gun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\gun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\endgame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\endgame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\audio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\audio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\audio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\audio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\endgame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\endgame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\gun.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\gun.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\lipko.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7AE42016-6E68-4DA9-8C17-1026BB0FB6E5}|tut_Basic_Objects\\tut_Basic_Objects.vcxproj|solutionrelative:tut_Basic_Objects\\lipko.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,56 +54,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "lipko.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\lipko.cpp",
-              "RelativeDocumentMoniker": "tut_Basic_Objects\\lipko.cpp",
-              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\lipko.cpp",
-              "RelativeToolTip": "tut_Basic_Objects\\lipko.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIBAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-01T13:32:29.188Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\main.cpp",
               "RelativeDocumentMoniker": "tut_Basic_Objects\\main.cpp",
               "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\main.cpp",
               "RelativeToolTip": "tut_Basic_Objects\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-22T17:12:50.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "gun.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\gun.cpp",
-              "RelativeDocumentMoniker": "tut_Basic_Objects\\gun.cpp",
-              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\gun.cpp",
-              "RelativeToolTip": "tut_Basic_Objects\\gun.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-07T19:06:05.404Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\Player.cpp",
-              "RelativeDocumentMoniker": "tut_Basic_Objects\\Player.cpp",
-              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\Player.cpp",
-              "RelativeToolTip": "tut_Basic_Objects\\Player.cpp",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADIAAAAjAAAA",
+              "Title": "endgame.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\endgame.cpp",
+              "RelativeDocumentMoniker": "tut_Basic_Objects\\endgame.cpp",
+              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\endgame.cpp",
+              "RelativeToolTip": "tut_Basic_Objects\\endgame.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T19:33:12.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\player.cpp",
+              "RelativeDocumentMoniker": "tut_Basic_Objects\\player.cpp",
+              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\player.cpp",
+              "RelativeToolTip": "tut_Basic_Objects\\player.cpp",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-01T15:35:57.506Z",
               "EditorCaption": ""
@@ -91,27 +100,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\Player.h",
-              "RelativeDocumentMoniker": "tut_Basic_Objects\\Player.h",
-              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\Player.h",
-              "RelativeToolTip": "tut_Basic_Objects\\Player.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Title": "enemy.h",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\enemy.h",
+              "RelativeDocumentMoniker": "tut_Basic_Objects\\enemy.h",
+              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\enemy.h",
+              "RelativeToolTip": "tut_Basic_Objects\\enemy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-01T16:58:35.403Z",
+              "WhenOpened": "2024-05-18T11:01:48.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "gun.h",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\gun.h",
-              "RelativeDocumentMoniker": "tut_Basic_Objects\\gun.h",
-              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\gun.h",
-              "RelativeToolTip": "tut_Basic_Objects\\gun.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\enemy.cpp",
+              "RelativeDocumentMoniker": "tut_Basic_Objects\\enemy.cpp",
+              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\enemy.cpp",
+              "RelativeToolTip": "tut_Basic_Objects\\enemy.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T10:45:20.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "audio.h",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\audio.h",
+              "RelativeDocumentMoniker": "tut_Basic_Objects\\audio.h",
+              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\audio.h",
+              "RelativeToolTip": "tut_Basic_Objects\\audio.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-07T19:08:01.105Z"
+              "WhenOpened": "2024-05-25T18:25:03.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bullet.h",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\bullet.h",
+              "RelativeDocumentMoniker": "tut_Basic_Objects\\bullet.h",
+              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\bullet.h",
+              "RelativeToolTip": "tut_Basic_Objects\\bullet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T10:59:20.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "audio.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\audio.cpp",
+              "RelativeDocumentMoniker": "tut_Basic_Objects\\audio.cpp",
+              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\audio.cpp",
+              "RelativeToolTip": "tut_Basic_Objects\\audio.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T18:22:49.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "endgame.h",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\endgame.h",
+              "RelativeDocumentMoniker": "tut_Basic_Objects\\endgame.h",
+              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\endgame.h",
+              "RelativeToolTip": "tut_Basic_Objects\\endgame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-24T11:47:11.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bullet.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\bullet.cpp",
+              "RelativeDocumentMoniker": "tut_Basic_Objects\\bullet.cpp",
+              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\bullet.cpp",
+              "RelativeToolTip": "tut_Basic_Objects\\bullet.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T19:06:05.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\player.h",
+              "RelativeDocumentMoniker": "tut_Basic_Objects\\player.h",
+              "ToolTip": "C:\\Users\\\u0418\u0433\u043E\u0440\u044C\\source\\repos\\VS_OpenGL_tutorial\\OpenGL_tutorial\\tut_Basic_Objects\\player.h",
+              "RelativeToolTip": "tut_Basic_Objects\\player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T16:58:35.403Z",
+              "EditorCaption": ""
             }
           ]
         }
